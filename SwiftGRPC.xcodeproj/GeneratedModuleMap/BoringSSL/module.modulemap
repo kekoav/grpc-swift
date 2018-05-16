@@ -1,0 +1,4 @@
+module BoringSSL {
+    umbrella "/Users/kekoa/Documents/photomob/ios-app/Services/grpc-swift/Sources/BoringSSL/include"
+    export *
+}
